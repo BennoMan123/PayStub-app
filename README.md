@@ -16,3 +16,11 @@
 * log in enter
 * paystub+ logo
 * management view
+
+**What SYSTEM REQUIREMENTS folder contains:**
+* Sequence Diagram (chart)
+* Use Case Scenarios
+* System Requirements doc
+* Description Model
+* Class Diagram
+* Use Case Diagram
