@@ -25,7 +25,7 @@
 * Class Diagram
 * Use Case Diagram
 
-**What System Documents folder contains:**
+**What System Design folder contains:**
 * Paystub design level class diagram (pdf and visio format)
 * Pseudo code
 * Sequence diagrams (pdf and photo version)
