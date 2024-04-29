@@ -17,10 +17,17 @@
 * paystub+ logo
 * management view
 
-**What SYSTEM REQUIREMENTS folder contains:**
+**What System Requirements folder contains:**
 * Sequence Diagram (chart)
 * Use Case Scenarios
 * System Requirements doc
 * Description Model
 * Class Diagram
 * Use Case Diagram
+
+**What System Documents folder contains:**
+* Paystub design level class diagram (pdf and visio format)
+* Pseudo code
+* Sequence diagrams (pdf and photo version)
+* State charts (part one and two)
+* System design document (contains the introduction)
