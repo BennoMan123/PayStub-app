@@ -1,33 +1,33 @@
-# SWEN_Project
+# CMP 280 Software Engineering Project
 ## Paystubbers inc.
 ### Group Members: Jimmy Paulson, Daniel Garcia, Ethan Reiss, and Michael Benno
 
 **\*\*Project Schedule is on the outmost folder.\*\***
 
-**What 'Project plan' folder contains:**
-* Project Proposal sldies (used when we presented)
-* Project Schedule map (mpp file)
+**'Project plan' folder contents:**
+* Project proposal slides
+* Project schedule map (mpp file)
 * System context diagram (pdf)
 * Software project plan outline document (docx file)
 
-**What 'Mock Up Pages' folder contains:**
-* Income graphs
-* income input
+**'Mock Up Pages' folder contents:**
+* Income graphs example
+* Income input page
 * Info page
-* log in page
-* log in enter
-* paystub+ logo
-* management view
+* Login page
+* Login enter
+* Paystub+ logo
+* Management view
 
-**What 'System Requirements' folder contains:**
-* Sequence Diagram (chart)
+**'System Requirements' folder contents:**
+* Sequence Diagram chart
 * Use Case Scenarios
 * System Requirements doc
 * Description Model
 * Class Diagram
 * Use Case Diagram
 
-**What 'System Design' folder contains:**
+**What 'System Design' folder contents:**
 * Paystub design level class diagram (pdf and visio format)
 * Pseudo code
 * Sequence diagrams (pdf and png version)
