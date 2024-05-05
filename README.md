@@ -2,13 +2,13 @@
 ## Paystubbers inc.
 ### Group Members: Jimmy Paulson, Daniel Garcia, Ethan Reiss, and Michael Benno
 
-**\*\*Project Schedule is on the outmost folder.\*\***
+**\*\*The final and complete Project Schedule is on the outmost folder.\*\***
 
 **'Project plan' folder contents:**
 * Project proposal slides
-* Project schedule map (mpp file)
-* System context diagram (pdf)
-* Software project plan outline document (docx file)
+* Project schedule map (Initial Plan)
+* System context diagram
+* Software project plan outline document
 
 **'Mock Up Pages' folder contents:**
 * Income graphs example
