@@ -10,12 +10,7 @@
 
 **'Mock Up Pages' folder contents:**
 * Paystub+ logo
-* Photo which shows examples of:
-	* Income graphs example
-	* Income input page
-	* Info page
-	* Login page
-	* Login enter
+* Paystub+ UI Mock Ups
 
 **'System Requirements' folder contents:**
 * Sequence Diagram chart
@@ -28,6 +23,6 @@
 **'System Design' folder contents:**
 * Paystub design level class diagram (pdf and visio format)
 * Pseudo code
-* Sequence diagrams (pdf and png version)
+* Sequence diagrams (pdf and png versions)
 * State charts (2 parts)
 * System design document (contains the introduction)
