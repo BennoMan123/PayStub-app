@@ -9,25 +9,25 @@
 * Software project plan outline document
 
 **'Mock Up Pages' folder contents:**
-* Income graphs example
-* Income input page
-* Info page
-* Login page
-* Login enter
 * Paystub+ logo
-* Management view
+* Photo which shows examples of:
+	* Income graphs example
+	* Income input page
+	* Info page
+	* Login page
+	* Login enter
 
 **'System Requirements' folder contents:**
 * Sequence Diagram chart
-* Use Case Scenarios
-* System Requirements doc
+* Use Case Scenarios/Descriptions
+* System Requirements Document
 * Description Model
 * Class Diagram
 * Use Case Diagram
 
-**What 'System Design' folder contents:**
+**'System Design' folder contents:**
 * Paystub design level class diagram (pdf and visio format)
 * Pseudo code
 * Sequence diagrams (pdf and png version)
-* State charts (part one and two)
+* State charts (2 parts)
 * System design document (contains the introduction)
