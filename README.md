@@ -3,7 +3,6 @@
 ### Group Members: Jimmy Paulson, Daniel Garcia, Ethan Reiss, and Michael Benno
 
 **'Project plan' folder contents:**
-* Project proposal slides
 * Project schedule map
 * System context diagram
 * Software project plan outline document
@@ -23,6 +22,6 @@
 **'System Design' folder contents:**
 * Paystub design level class diagram (pdf and visio format)
 * Pseudo code
-* Sequence diagrams (pdf and png versions)
+* Sequence diagrams
 * State charts (2 parts)
-* System design document (contains the introduction)
+* System design document
