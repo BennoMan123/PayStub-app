@@ -2,7 +2,7 @@
 ## Paystubbers inc.
 ### Group Members: Jimmy Paulson, Daniel Garcia, Ethan Reiss, and Michael Benno
 
-**'Project plan' folder contents:**
+**'Project Plan' folder contents:**
 * Project schedule map
 * System context diagram
 * Software project plan outline document
